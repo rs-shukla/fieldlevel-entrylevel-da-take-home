@@ -100,7 +100,6 @@ They are using the following rules to assign users to the groups:
 Once the experiment launches the team wants to track changes to the probability of an email getting clicked.
 In preparation for the experiment launch, plot a graph comparing the probability a user clicks on an email for each of the two experimental groups aggregated on a daily basis.
 In a paragraph, describe whether you think this is a good experimental design.
-In particular, what is good about the strategy for assigning users to experimental groups and what concerns do you have.
 1. Finally, the product manager is worried emails are not having the impact we think.
 In particular they are concerned that unengaged users (users who have not logged into FieldLevel for 6 months) do not open or click on emails and because of this, efforts to re-engage users that focus on email will not be effective. 
 The PM would like you to explore whether there is evidence that emails are effective with engaged users (users who log in without emails prompting them) but not effective on unengaged users.
