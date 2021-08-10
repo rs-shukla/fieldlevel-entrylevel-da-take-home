@@ -10,7 +10,7 @@ To complete the goal you should setup your system as described below and then ed
 ## Setup
 #### Get the data and project code
 1. Import the exercise repository to your personal Github account. Using github's import tool (https://github.com/new/import) import this url: https://github.com/FieldLevel/fieldlevel-entrylevel-da-take-home
-1. Invite our github user "fl-codereview" to be a collaborator on your new repository
+1. Invite Jordan's github user "mrjrdnthms" to be a collaborator on your new repository
 1. Get your new repository on your local machine
 1. Unzip the data stored in `data.zip` to the project root. You should see two files, `email_data.csv` and `activity_data.csv`  
 
