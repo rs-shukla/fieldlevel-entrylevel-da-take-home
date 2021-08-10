@@ -63,19 +63,19 @@ ActivityCount | The number of pages/requests the user made on that day. Users wh
 ### Questions
 For each question below create a new code cell in the Exercise.ipynb notebook. 
 Start the code cell with a comment indicating the question it is answering. 
-Then write and execute the code you feel is required to answer the question.
+Write any assumptions you made about the data.
+Write and execute the code you feel is required to answer the question.
 Show your work and describe your thought process.
+Imagine your answers will be presented to team members not used to looking at the data so make the presentation clear and easy to understand.
 The goal is to help us understand how you approach analysis.
 1. How many rows are in the two datasets? 
 If the log of emails represents 3% of the emails we sent over this period, how many emails did we send?
 (use python to print the numbers and display them nicely with commas)
 1. What are the earliest and most recent dates of emails sent in this dataset in California time (Pacific Standard Time Zone)? (use python to print the date in format mm/dd/yyy hour:minute in 24 hour time)
 1. Which 10 zip codes receive the most emails and how many emails do they receive?
-1. Plot a single graph. 
-Make sure the graph communicates clearly to team members not used to looking at the data (e.g. the axis make sense, labels are clear, there's a title, etc.)
-Plot two data sets: 
+1. Plot two lines on a single graph. 
     - total distinct users who were sent at least 1 email by month and year.
-    - the monthly the percentage of users who were sent an email and were active the same day
+    - the monthly percentage of users who were sent an email and were active the same day
 1. All the emails we send contain at least one link users can click which should send them to the FieldLevel app (where they would login and become active for that day).
 The team is curious if any of the links are broken.
 A broken link would be indicated by a record of email sent and clicked but no record of user activity on the day of the click.
